@@ -6,7 +6,7 @@
         </style>
     @include('livewire.create')
      @include('livewire.update')
-    <section>
+    <section style="padding-top: 30px;">
         <div class="container">
             <div class="row">
               <div class="col-md-12" >
